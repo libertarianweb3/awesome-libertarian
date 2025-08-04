@@ -244,3 +244,25 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 | Bleeding Heart Libertarians | Exploring the intersection of libertarianism and social justice.         | https://bleedingheartlibertarians.com/       |
 | The Objective Standard  | Promotes rational egoism and individual rights from an Objectivist lens.    | https://theobjectivestandard.com/            |
 | Libertarian Institute   | News, podcasts, and commentary on foreign policy, liberty, and economics.   | https://libertarianinstitute.org/            |
+
+# 9. Libertarian Think Tanks & Research Networks
+ 
+
+| Organization Name            | Country/Region         | Description                                                                 | Link                                         |
+|------------------------------|------------------------|-----------------------------------------------------------------------------|----------------------------------------------|
+| Cato Institute               | United States          | Leading libertarian think tank focusing on public policy, economics, and liberty. | https://www.cato.org/                        |
+| Reason Foundation            | United States          | Research and advocacy for free markets, individual liberty, and limited government. | https://reason.org/                          |
+| Ludwig von Mises Institute   | United States          | Promotes Austrian economics, freedom, and peace.                            | https://mises.org/                           |
+| Competitive Enterprise Institute | United States      | Advancing principles of limited government, free enterprise, and individual liberty. | https://cei.org/                             |
+| Foundation for Economic Education (FEE) | United States | Educational resources on economics and liberty for young people.            | https://fee.org/                             |
+| Institute for Humane Studies | United States          | Supports students and scholars interested in classical liberal ideas.        | https://theihs.org/                          |
+| Mercatus Center              | United States          | University-based research center advancing market-oriented ideas.            | https://www.mercatus.org/                    |
+| Independent Institute         | United States         | Research and education on free markets and limited government.               | https://www.independent.org/                 |
+| Atlas Network                | International          | Connects and supports a global network of free-market think tanks.           | https://www.atlasnetwork.org/                |
+| Fraser Institute              | Canada                | Canadian think tank promoting free-market policies and individual liberty.   | https://www.fraserinstitute.org/             |
+| Institute of Economic Affairs | United Kingdom        | UK's original free-market think tank, focused on economics and policy.       | https://iea.org.uk/                          |
+| Adam Smith Institute          | United Kingdom        | Public policy think tank promoting free markets and individual liberty.      | https://www.adamsmith.org/                   |
+| Prometheus Institute          | Europe                | European libertarian think tank for research and advocacy.                   | https://prometheusinstitut.eu/               |
+| Timbro                       | Sweden                | Swedish think tank promoting classical liberal and free-market ideas.        | https://timbro.se/                           |
+| Friedrich Naumann Foundation  | Germany/International | Promotes liberal democracy, human rights, and economic freedom worldwide.    | https://www.freiheit.org/                    |
+| Libertarian International Organization | International | Global network supporting libertarian activism and research.                | https://libertarian.international/           |
