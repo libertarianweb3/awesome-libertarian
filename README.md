@@ -184,7 +184,7 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 | Power and Market: Government and the Economy       | Murray N. Rothbard            | 1970           | Examines the effects of government intervention on markets.                                    |
 | Socialism: An Economic and Sociological Analysis   | Ludwig von Mises              | 1922           | Analyzes socialism’s economic and social consequences.                                         |
 
-# 6. Libertarian YouTube Channel
+# 7. Libertarian YouTube Channel
 
 | Channel Name                | Host(s) / Organization               | Description                                                                                          | YouTube Link                                         |
 |-----------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------|
@@ -203,3 +203,24 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 | Keith Knight - Don’t Tread on Anyone | Keith Knight               | Interviews and commentary on philosophy, liberty, and economics.                                     | https://www.youtube.com/user/KeithKnightDontTreadOnAnyone |
 | Julie Borowski              | Julie Borowski                       | Libertarian commentary on politics, economics, and culture, often with humor.                        | https://www.youtube.com/user/TokenLibertarianGirl    |
 | The Libertarian Institute   | Libertarian Institute (Scott Horton, etc.) | Podcasts and interviews on foreign policy, economics, and libertarian theory.                  | https://www.youtube.com/@libertarianinstitute        |
+
+# 8. libertarian Social Media Communities
+
+
+| Community Name              | Platform         | Description                                                                | Link                                                      |
+|-----------------------------|------------------|----------------------------------------------------------------------------|-----------------------------------------------------------|
+| r/Libertarian               | Reddit           | One of the largest online libertarian communities for discussion and news.  | https://www.reddit.com/r/Libertarian/                     |
+| r/GoldandBlack              | Reddit           | Subreddit for more radical and anarcho-capitalist libertarians.            | https://www.reddit.com/r/GoldandBlack/                    |
+| r/Anarcho_Capitalism        | Reddit           | Focused on anarcho-capitalist theory, news, and discussion.                | https://www.reddit.com/r/Anarcho_Capitalism/              |
+| Libertarian Facebook Group  | Facebook         | General libertarian discussion and sharing of news and resources.           | https://www.facebook.com/groups/libertarian/              |
+| Libertarian Party           | Facebook         | Official Facebook page of the US Libertarian Party.                        | https://www.facebook.com/libertarianparty/                |
+| Libertarian Party           | X (Twitter)      | Official Twitter/X account of the US Libertarian Party.                    | https://twitter.com/LPNational                            |
+| Liberty Memes               | Facebook         | Popular libertarian meme and community page.                               | https://www.facebook.com/LibertyMemes/                    |
+| Libertarian Discord         | Discord          | Large community server for real-time libertarian discussion and networking. | https://discord.gg/libertarian                            |
+| r/Voluntarism               | Reddit           | Community for voluntaryist and anarchist libertarian ideas.                | https://www.reddit.com/r/Voluntarism/                     |
+| Libertarianism.org          | Facebook         | Official page of Libertarianism.org for philosophy, news, and ideas.       | https://www.facebook.com/libertarianismdotorg/            |
+| Liberty.me                 | Community Site   | Social networking and publishing platform for libertarians.                | https://liberty.me/                                       |
+| Libertarian Substack        | Substack         | Newsletters and commentary from libertarian authors.                       | https://substack.com/search/libertarian                   |
+| Cato Institute              | X (Twitter)      | Leading libertarian think tank's Twitter account.                          | https://twitter.com/CatoInstitute                         |
+| Reason Magazine             | Facebook         | Official page for Reason, a libertarian magazine.                          | https://www.facebook.com/reasonmagazine/                  |
+| Students For Liberty        | Facebook         | Global student movement for liberty and classical liberalism.              | https://www.facebook.com/StudentsForLiberty/              |
