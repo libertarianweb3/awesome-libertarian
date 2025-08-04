@@ -29,7 +29,7 @@ everything about libertarian
 | **FEEcon (Foundation for Economic Education Conference)** | Conference by FEE focused on free-market ideas, entrepreneurship, and liberty.                  | [fee.org/events](https://fee.org/events)         | Varies (USA)               |
 | **Europe Liberty Forum (Atlas Network)** | Europe-focused annual conference for liberty movement leaders, organized by Atlas Network.      | [atlasnetwork.org/region/europe](https://www.atlasnetwork.org/region/europe) | Varies (Europe)            |
 
-# 100 Most Influential Libertarians: A Newsmax/FreedomFest List
+# 3. 100 Most Influential Libertarians: A Newsmax/FreedomFest List
 
 https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id/793510/
 
@@ -135,7 +135,7 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 100. **Joel M. Stern** —The chairman and CEO of Stern Value Management is also a distinguished adjunct professor of finance at Carnegie-Mellon University and five other universities. Stern is credited with developing economic-value-added (EVA), considered the fourth financial statement in corporate finance.
 
 
-# 3. libertarian Publisher
+# 4. libertarian Publisher
 
 | Name                             | Description                                                                                          | Website/Contact                                   | Publisher/Organization          |
 |---------------------------------- |------------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------|
@@ -150,7 +150,7 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 | **Journal of Private Enterprise** | Peer-reviewed academic journal focusing on private enterprise, markets, and entrepreneurship.         | [journal.apee.org](https://journal.apee.org)      | Association of Private Enterprise Education (APEE) |
 | **Critical Review**               | Interdisciplinary academic journal with a strong focus on libertarian and free-market ideas.          | [tandfonline.com/toc/rcri20/current](https://www.tandfonline.com/toc/rcri20/current) | Critical Review Foundation      |
 
-# 4. Libertarian Podcast
+# 5. Libertarian Podcast
 | Name                                | Description                                                                                       | Website/Platform                                 | Host/Organization              |
 |--------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------------------------|
 | **The Reason Roundtable**            | Weekly discussion of current events and libertarian ideas by Reason magazine editors.              | [reason.com/podcasts](https://reason.com/podcasts) | Reason Magazine                |
@@ -164,7 +164,7 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 | **School Sucks Podcast**             | Critique of compulsory schooling and advocacy for self-directed learning and liberty.              | [schoolsucksproject.com](https://schoolsucksproject.com) | Brett Veinotte                 |
 | **Part of the Problem**              | Libertarian takes on politics and current events, with comedian Dave Smith.                        | [gasdigitalnetwork.com/gdn-show-channels/part-of-the-problem/](https://gasdigitalnetwork.com/gdn-show-channels/part-of-the-problem/) | Dave Smith                    |
 
-# 5. Libertarian Books
+# 6. Libertarian Books
 
 | Title                                              | Author(s)                    | Year Published | Description                                                                                   |
 |----------------------------------------------------|------------------------------|----------------|-----------------------------------------------------------------------------------------------|
