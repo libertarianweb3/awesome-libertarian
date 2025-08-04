@@ -1,6 +1,6 @@
 # awesome-libertarian
 everything about libertarian
-# Libertarian organization/institution
+# 1. Libertarian organization/institution
 | Name                                      | Description                                                                                                                               | Contact/Website                                   | Headquarters              |
 |------------------------------------------- |-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------|
 | **Cato Institute**                        | Leading libertarian think tank focused on individual liberty, limited government, free markets, and peace.                                | [cato.org](https://www.cato.org)                 | Washington, D.C., USA     |
@@ -15,7 +15,7 @@ everything about libertarian
 | **Liberty International**                 | International network promoting libertarianism and individual rights via conferences and outreach.                                         | [liberty-intl.org](https://liberty-intl.org)     | Dallas, TX, USA           |
 
 
-# Libertarian events/conferences
+# 2. Libertarian events/conferences
 
 | Event Name                      | Description                                                                                      | Website/Contact                                  | Location (Typical)         |
 |----------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------------------|
