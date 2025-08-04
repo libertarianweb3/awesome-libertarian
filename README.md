@@ -53,15 +53,9 @@ https://www.hoover.org/
 
 https://www.eventbrite.com/
 
-# 自由意志主义者
+# 100 Most Influential Libertarians: A Newsmax/FreedomFest List
 
 https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id/793510/
-
-https://www.quora.com/Who-is-the-most-popular-libertarianhttps://marginalrevolution.com/marginalrevolution/2018/02/underrated-libertarian-thinkers.html
-
-https://www.reddit.com/r/EnoughLibertarianSpam/comments/2fr6cw/best_and_worst_libertarian_philosophers/
-
-https://docs.google.com/document/d/1DcaHpbTRVBM_TTgjQJR-Zywjje8jOPcYx40s0FxSqpo/edit?usp=sharing
 
 1. [**Ron Paul**](https://twitter.com/RonPaul)  — Perhaps no one has done more to bring the libertarian platform into the national spotlight than Ron Paul, the former United States Representative from Texas and three-time presidential candidate. He has also authored several books of libertarian philosophy on economics, education, foreign policy, and freedom.
 2. [**Rand Paul**](https://twitter.com/RandPaul) — The Republican Kentucky junior senator and son of Ron Paul has been credited with bringing libertarianism into the mainstream by advancing the movement’s torch lit by his father. He has been one of the loudest voices against government overreach in Washington, particularly on issues of revenue, privacy, and justice.
