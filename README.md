@@ -183,3 +183,23 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 | The Machinery of Freedom                           | David D. Friedman             | 1973           | Discusses how law and order could operate without the state.                                   |
 | Power and Market: Government and the Economy       | Murray N. Rothbard            | 1970           | Examines the effects of government intervention on markets.                                    |
 | Socialism: An Economic and Sociological Analysis   | Ludwig von Mises              | 1922           | Analyzes socialism’s economic and social consequences.                                         |
+
+# 6. Libertarian YouTube Channel
+
+| Channel Name                | Host(s) / Organization               | Description                                                                                          | YouTube Link                                         |
+|-----------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| ReasonTV                    | Reason Foundation                    | Libertarian news, documentaries, interviews, and social commentary.                                  | https://www.youtube.com/user/ReasonTV                |
+| Free To Choose Network      | Free To Choose Network               | Economics, freedom, and policy discussions inspired by Milton Friedman’s philosophy.                 | https://www.youtube.com/user/FreeToChooseNetwork     |
+| Tom Woods                   | Tom Woods                            | Libertarian history, economics, and interviews with leading thinkers.                                | https://www.youtube.com/channel/UCyB6bDvcMggcF8r4KJb2LZw |
+| John Stossel                | John Stossel                         | Libertarian takes on politics, economics, and culture, with investigative journalism.                | https://www.youtube.com/user/StosselTV               |
+| Learn Liberty               | Institute for Humane Studies         | Educational videos on philosophy, economics, and libertarian ideas.                                  | https://www.youtube.com/user/LearnLiberty            |
+| Dave Rubin (The Rubin Report)| Dave Rubin                          | Political commentary and interviews, often with a libertarian/classical liberal perspective.          | https://www.youtube.com/user/RubinReport             |
+| Reason Foundation           | Reason Foundation                    | In-depth analysis and discussions on freedom, policy, and economics.                                 | https://www.youtube.com/c/reasonfoundation           |
+| The Fifth Column            | Kmele Foster, Matt Welch, Michael Moynihan | Libertarian-leaning commentary on current events and culture.                                  | https://www.youtube.com/@wethefifth                  |
+| Libertarianism.org          | Cato Institute                       | Explainers, interviews, and historical content about libertarian philosophy.                         | https://www.youtube.com/user/libertarianismdotorg    |
+| Mises Media                 | Ludwig von Mises Institute           | Austrian economics lectures, interviews, and libertarian philosophy.                                 | https://www.youtube.com/user/misesmedia              |
+| Ron Paul Liberty Report     | Ron Paul & Daniel McAdams            | News and commentary from a libertarian perspective, by former Congressman Ron Paul.                  | https://www.youtube.com/channel/UCkJ1N-7g9Q6n7KnriGit-Ig |
+| Actual Justice Warrior      | Sean Fitzgerald                      | Libertarian responses to current events and media narratives.                                        | https://www.youtube.com/user/actualjusticewarrior    |
+| Keith Knight - Don’t Tread on Anyone | Keith Knight               | Interviews and commentary on philosophy, liberty, and economics.                                     | https://www.youtube.com/user/KeithKnightDontTreadOnAnyone |
+| Julie Borowski              | Julie Borowski                       | Libertarian commentary on politics, economics, and culture, often with humor.                        | https://www.youtube.com/user/TokenLibertarianGirl    |
+| The Libertarian Institute   | Libertarian Institute (Scott Horton, etc.) | Podcasts and interviews on foreign policy, economics, and libertarian theory.                  | https://www.youtube.com/@libertarianinstitute        |
