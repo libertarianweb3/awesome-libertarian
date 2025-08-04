@@ -1,5 +1,5 @@
 # awesome-libertarian
-everything about libertarian
+Everything about libertarian
 # 1. Libertarian organization/institution
 | Name                                      | Description                                                                                                                               | Contact/Website                                   | Headquarters              |
 |------------------------------------------- |-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------|
