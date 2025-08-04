@@ -1,6 +1,6 @@
 # awesome-libertarian
 everything about libertarian
-# 杂志和网站
+# Libertarian organization/institution
 
 https://reason.com/
 
