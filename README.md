@@ -135,7 +135,7 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 100. **Joel M. Stern** —The chairman and CEO of Stern Value Management is also a distinguished adjunct professor of finance at Carnegie-Mellon University and five other universities. Stern is credited with developing economic-value-added (EVA), considered the fourth financial statement in corporate finance.
 
 
-## 3. libertarian Publisher
+# 3. libertarian Publisher
 
 | Name                             | Description                                                                                          | Website/Contact                                   | Publisher/Organization          |
 |---------------------------------- |------------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------|
@@ -163,3 +163,23 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 | **The Jason Stapleton Program**      | Focuses on wealth, power, influence, and individual liberty.                                       | [jasonstapleton.com](https://www.jasonstapleton.com) | Jason Stapleton                |
 | **School Sucks Podcast**             | Critique of compulsory schooling and advocacy for self-directed learning and liberty.              | [schoolsucksproject.com](https://schoolsucksproject.com) | Brett Veinotte                 |
 | **Part of the Problem**              | Libertarian takes on politics and current events, with comedian Dave Smith.                        | [gasdigitalnetwork.com/gdn-show-channels/part-of-the-problem/](https://gasdigitalnetwork.com/gdn-show-channels/part-of-the-problem/) | Dave Smith                    |
+
+# 5. Libertarian Books
+
+| Title                                              | Author(s)                    | Year Published | Description                                                                                   |
+|----------------------------------------------------|------------------------------|----------------|-----------------------------------------------------------------------------------------------|
+| The Road to Serfdom                                | F. A. Hayek                  | 1944           | Warns about the dangers of government control and central planning to individual freedom.      |
+| Atlas Shrugged                                     | Ayn Rand                     | 1957           | A novel presenting Rand's philosophy of Objectivism and critique of collectivism.              |
+| Human Action                                       | Ludwig von Mises             | 1949           | A comprehensive treatise on economics and the philosophy of praxeology.                        |
+| Anarchy, State, and Utopia                         | Robert Nozick                | 1974           | A foundational work in political philosophy defending a minimal state.                         |
+| The Law                                            | Frédéric Bastiat             | 1850           | Argues for the protection of individual rights and limited government.                         |
+| Economics in One Lesson                            | Henry Hazlitt                | 1946           | Explains fundamental economic principles and the consequences of government intervention.       |
+| Capitalism and Freedom                             | Milton Friedman               | 1962           | Advocates for economic freedom as a necessary condition for political freedom.                 |
+| For a New Liberty: The Libertarian Manifesto       | Murray N. Rothbard           | 1973           | Outlines the principles and philosophy of libertarianism.                                      |
+| The Ethics of Liberty                              | Murray N. Rothbard           | 1982           | Explores the philosophical foundations of libertarianism and natural rights.                   |
+| Defending the Undefendable                        | Walter Block                  | 1976           | Defends controversial and misunderstood professions from a libertarian perspective.             |
+| No Treason: The Constitution of No Authority       | Lysander Spooner              | 1867           | Critiques the legitimacy of the U.S. Constitution and government authority.                    |
+| Democracy: The God That Failed                     | Hans-Hermann Hoppe            | 2001           | Argues against democracy and for private property anarchism.                                   |
+| The Machinery of Freedom                           | David D. Friedman             | 1973           | Discusses how law and order could operate without the state.                                   |
+| Power and Market: Government and the Economy       | Murray N. Rothbard            | 1970           | Examines the effects of government intervention on markets.                                    |
+| Socialism: An Economic and Sociological Analysis   | Ludwig von Mises              | 1922           | Analyzes socialism’s economic and social consequences.                                         |
