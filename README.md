@@ -341,11 +341,6 @@ The Bob Murphy Show
 | Lions of Liberty | Marc Clair | 圆桌讨论，轻松向 |
 | The Voluntary Life | Jake Desyllas | 极简主义+自由创业 |
 
-# 行动
-
-1. **抢注域名**：如 libertarianweb3.com, freedomchain.org
-2. **制作宣言视频**：30秒说明你如何用区块链实现真正自由
-3. **Twitter轰炸**：每天@名单中的5-10个人，分享你的最新进展
 
 四、英文圈主流自由意志主义 KOL（Twitter/X & YouTube 粉丝量/影响力简注）
 
