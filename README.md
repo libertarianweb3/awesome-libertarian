@@ -266,3 +266,18 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 | Timbro                       | Sweden                | Swedish think tank promoting classical liberal and free-market ideas.        | https://timbro.se/                           |
 | Friedrich Naumann Foundation  | Germany/International | Promotes liberal democracy, human rights, and economic freedom worldwide.    | https://www.freiheit.org/                    |
 | Libertarian International Organization | International | Global network supporting libertarian activism and research.                | https://libertarian.international/           |
+
+# 10. Libertarian Courses & MOOCs
+
+| Course Name                                  | Provider/Organization        | Description                                                                              | Link                                                         |
+|-----------------------------------------------|------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Introduction to Libertarianism                | Libertarianism.org           | Free video course covering the basics of libertarian philosophy and history.             | https://www.libertarianism.org/series/introduction-to-libertarianism |
+| Economics in One Lesson (Course)              | Foundation for Economic Education (FEE) | Explores essential economic concepts from a libertarian perspective.           | https://fee.org/resources/economics-in-one-lesson-course/    |
+| Principles of Austrian Economics              | Mises Institute              | Online course on Austrian School economics, key to many libertarian ideas.               | https://mises.org/events/principles-austrian-economics       |
+| The Libertarian Mind                          | Cato Institute               | Video lectures on the principles, history, and applications of libertarian thought.      | https://www.cato.org/education-events/libertarian-mind       |
+| Learn Liberty Video Series                    | Learn Liberty (IHS)          | Dozens of short educational videos on liberty, philosophy, and economics.                | https://www.learnliberty.org/                                |
+| Capitalism vs. Socialism                      | Marginal Revolution University| MOOC on the differences between capitalism and socialism, with a strong libertarian angle.| https://mru.org/courses/capitalism-vs-socialism              |
+| Understanding Federalism                      | Cato Institute               | Free course on federalism, decentralization, and limited government.                     | https://www.cato.org/education-events/understanding-federalism|
+| Introduction to Austrian Economics            | Mises Institute              | A beginner’s overview of Austrian economics and its role in libertarian thought.         | https://mises.org/events/introduction-austrian-economics     |
+| Libertarianism and the Law                    | Cato Institute               | Explores the connections between law, rights, and libertarianism.                        | https://www.cato.org/education-events/libertarianism-law     |
+| Individual Liberty, Free Markets, and Entrepreneurship | Atlas Network         | Course series on the values and practicalities of liberty and markets.                   | https://www.atlasnetwork.org/academy                         |
