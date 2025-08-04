@@ -14,56 +14,20 @@ everything about libertarian
 | **Atlas Network**                         | Nonprofit connecting and supporting a global network of 500+ free-market organizations in nearly 100 countries.                            | [atlasnetwork.org](https://atlasnetwork.org)     | Arlington, VA, USA        |
 | **Liberty International**                 | International network promoting libertarianism and individual rights via conferences and outreach.                                         | [liberty-intl.org](https://liberty-intl.org)     | Dallas, TX, USA           |
 
-https://reason.com/
 
-https://www.libertarianism.org/
+# Libertarian events/conferences
 
-https://www.cato.org/
-
-[mises.org](http://mises.org/)
-
-[Liberty.me](http://liberty.me/)
-
-Fraser
-
-https://www.adamsmith.org/
-
-[*www.freedomfest.com*](http://www.freedomfest.com/)
-
-[Antiwar.com](http://antiwar.com/)
-
-[Hoover Institution](https://www.hoover.org/research/personal-freedom-and-moral-case-capitalism)
-
-Foundation for Economic Education
-
-Andreas Antonopoulos
-
-Atlas Network
-
-Heartland Institute
-
-电子前沿基金会（Electronic Frontier Foundation）、阿特拉斯网络（Atlas Network）、弗雷泽研究所（Fraser Institute）、戈德华特研究所（Goldwater Institute）、梅卡图斯中心（Mercatus Center）、尼斯卡宁中心（Niskanen Center）、财产与自由协会（Property and Freedom Society）和R街研究所（R Street Institute）
-
-- [**Reason.com](https://reason.com/)（思想领袖媒体）**
-- [**Liberty.me](https://liberty.me/)（自由意志主义社交平台）**
-- [**Mirror.xyz](https://mirror.xyz/)（Web3作家平台，强调去中心化）**
-- [**Urbit](https://urbit.org/)（自主数字身份和社区）**
-- Stand Together
-- Americans for Prosperity
-- Mercatus Center
-- Institute for Humane Studies
-- [ontheissues.org或libertarianparty.org](http://ontheissues.xn--orglibertarianparty-s412b.org/)
-- Wake Forest
-- Ayn Rand Institute
-- Students For Liberty
-
-# 活动日历
-
-https://www.fraserinstitute.org/
-
-https://www.hoover.org/
-
-https://www.eventbrite.com/
+| Event Name                      | Description                                                                                      | Website/Contact                                  | Location (Typical)         |
+|----------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------|----------------------------|
+| **FreedomFest**                  | The world's largest gathering of free minds, featuring debates, panels, and libertarian thinkers.| [freedomfest.com](https://www.freedomfest.com)   | Las Vegas, NV, USA         |
+| **Libertarian National Convention** | The biennial convention of the Libertarian Party, including party business and candidate selection. | [lp.org/convention](https://www.lp.org/convention) | Varies (USA)               |
+| **Students For Liberty LibertyCon** | International libertarian conference for students and young professionals, organized by SFL.      | [libertycon.com](https://www.libertycon.com)     | Varies (USA, Europe)       |
+| **International Society for Individual Liberty (ISIL)/Liberty International World Conference** | Annual global conference gathering libertarians from around the world.                        | [liberty-intl.org/events](https://liberty-intl.org/events) | Varies (Worldwide)         |
+| **Mises Institute Austrian Economics Research Conference (AERC)** | Annual conference focused on Austrian economics, organized by the Mises Institute.               | [mises.org/events](https://mises.org/events)     | Auburn, AL, USA            |
+| **Atlas Network Liberty Forum & Freedom Dinner** | Annual event bringing together free-market think tanks and liberty advocates globally.           | [atlasnetwork.org/events](https://www.atlasnetwork.org/events) | New York, NY, USA          |
+| **Free State Project's PorcFest (Porcupine Freedom Festival)** | A week-long festival in New Hampshire celebrating liberty and community, with talks, camping, and activism. | [porcfest.com](https://porcfest.com)             | Lancaster, NH, USA         |
+| **FEEcon (Foundation for Economic Education Conference)** | Conference by FEE focused on free-market ideas, entrepreneurship, and liberty.                  | [fee.org/events](https://fee.org/events)         | Varies (USA)               |
+| **Europe Liberty Forum (Atlas Network)** | Europe-focused annual conference for liberty movement leaders, organized by Atlas Network.      | [atlasnetwork.org/region/europe](https://www.atlasnetwork.org/region/europe) | Varies (Europe)            |
 
 # 100 Most Influential Libertarians: A Newsmax/FreedomFest List
 
@@ -170,290 +134,32 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 99. [**Robert P. Murphy**](https://twitter.com/BobMurphyEcon) — A research assistant professor at Texas Tech’s Free Market Institute and senior economist at the Institute for Energy Research, Murphy has been published in more than 100 different publications. He also co-hosts a podcast, “Contra Krugman,” with fellow listee Tom Woods.
 100. **Joel M. Stern** —The chairman and CEO of Stern Value Management is also a distinguished adjunct professor of finance at Carnegie-Mellon University and five other universities. Stern is credited with developing economic-value-added (EVA), considered the fourth financial statement in corporate finance.
 
-# Event
 
-https://anarchapulco.com/
-
-https://porcfest.com/
-
-[**Students for Liberty Conferences** (SFL)](studentsforliberty.org)
-
-[**FreedomFest**](freedomfest.com)
-[pacificbitcoin.com](http://pacificbitcoin.com/)
-
-[burningman.org](http://burningman.org/)
-
-LibertyCon
-
-Porcupine Freedom Festival
-
-Atlas Network’s Liberty Forum & Freedom Dinner
-
-Anarchapulco
-
-Liberty International World Conference
-
-Students For Liberty Asia-Pacific Conference
-
- [Meetup.com](http://meetup.com/)、Eventbrite 等平台的“Libertarian”标签
-
-International Conference on Libertarianism
-
-World Libertarian Forum
-
-Milton Friedman Lecture Series
-
-Austrian Economics Seminars
-
-Atlas Network会议
-
-http://mises.org/events/mises-university
-
-Mont Pelerin Society
-
-Association of Libertarian Studies
-
-Supporters Summit)**2025年支持者峰会** 则定于 **2025年10月16日至18日** 在佛罗里达州德拉海滩举行
-
-**自由意志主义学者会议 (Libertarian Scholars Conference)**：这是一个跨学科的会议，旨在推动自由意志主义思想的发展。 [[10]](https://mises.org/events) 下一届会议计划于 **2026年3月19日** 在阿拉巴马州奥本市举行
-
-**奥地利经济学研究会议 (Austrian Economics Research Conference)**：这是奥地利学派学者的国际性、跨学科会议。下一届会议计划于 **2026年3月19日至21日** 在阿拉巴马州奥本市举行。
-
-https://ca.lp.org/2025-convention/
-
-## 1. 影响力 KOL（意见领袖）非官方“热度”榜
-
-排序综合了 X/Twitter 关注数、公开演讲影响、作品引用量等公开指标。
-
-| 排名 | 人物 | 身份标签 | X/Twitter 关注 | 典型著作/节目 |
-| --- | --- | --- | --- | --- |
-| 1 | Rand Paul | 美国联邦参议员 | ≈ 4.7 M | 《The Case Against Socialism》 |
-| 2 | Ron Paul | 前众议员、“保罗革命”旗手 | ≈ 2.2 M | 《End the Fed》 |
-| 3 | John Stossel | 调查记者 / YouTuber | ≈ 1.2 M（+YouTube 1.6 M） | Stossel TV |
-| 4 | Dave Smith | 喜剧演员 / Podcaster | ≈ 470 K | Part of the Problem |
-| 5 | Nick Gillespie | Reason 杂志编辑 | ≈ 310 K | The Reason Interview |
-| 6 | Peter Schiff | 投资人 / 播客主持 | ≈ 900 K | The Peter Schiff Show |
-| 7 | Justin Amash | 前众议员 | ≈ 470 K | Forward Party 董事 |
-| 8 | Tom Woods | 历史学 PhD / 播客 | ≈ 300 K | The Tom Woods Show |
-| 9 | Dave Rubin | 访谈主持（自称“古典自由主义”） | ≈ 1.5 M | The Rubin Report |
-| 10 | Katherine Mangu-Ward | Reason 主编 | ≈ 120 K | Future Tense 专栏 |
-
-中文圈较活跃的自由意志主义者（粉丝量普遍较小）：
-
-• 吕成昱（网名“Econ Chang”）
-
-• 胡采蘋（两岸公共政策评论）
-
-• Podcast《经济学咖啡》主播郑承翰等
-
-## 主要 Libertarian 线下 / 线上 Event
-
-1. FreedomFest（美国拉斯维加斯，每年 7 月）
-2. Libertarian National Convention（美国自由党全国大会，逢偶数年）
-3. LibertyCon by Students For Liberty（SFL，全球巡回，旗舰站通常在华盛顿特区或布拉格）
-4. PorcFest – Porcupine Freedom Festival（新罕布什尔州 Free State Project，6 月露营）
-5. Austrian Economics Research Conference（Mises Institute，3 月，阿拉巴马）
-6. Cato University（智库 Cato Institute 夏季学院）
-7. International Conference on Libertarian Studies（香港、新加坡等地学术向）
-8. Anarchapulco（墨西哥阿卡普尔科，2 月，以加密货币与无政府资本主义为主）
-9. Liberty Forum & Festival（新罕布什尔州，每年秋季）
-10. European Students For Liberty Regional Conferences（ESFL，各国高校巡回）
-
-## 3. 自由意志主义杂志 / 期刊
-
-1. Reason（月刊，1972–今，ISSN 0048-6906）
-2. Regulation（季刊，Cato Institute）
-3. The Independent Review（季刊，Independent Institute）
-4. The Austrian（双月刊，Mises Institute）
-5. Journal of Libertarian Studies（学术期刊，停刊后存档完备）
-6. The Freeman（Foundation for Economic Education，纸刊已停，网站 FEE.org 持续更新）
-7. Liberty Magazine（1987–2016 纸刊，全部 PDF 免费）
-8. Reason Papers（开放获取学术期刊）
-9. City Journal（虽由曼哈顿研究所主办，整体趋向古典自由主义）
-10. Bitcoin Magazine（聚焦加密货币，带明显自由主义色彩）
-
-## 4. 代表性 Libertarian Podcast
-
-- Free Thoughts（Cato Institute，Trevor Burrus & Aaron Ross Powell）
-
-• EconTalk（Russ Roberts；斯坦福 Hoover Institution） – 每周经济学深谈
-
-• The Tom Woods Show（已突破 2 500 集）
-
-• Lions of Liberty（三位主持分板块：MUF, Electric Liberty Land, Finding Freedom）
-
-• The Reason Interview with Nick Gillespie（长篇深度对谈）
-
-• Part of the Problem（Dave Smith，带喜剧吐槽）
-
-• The Bob Murphy Show（奥地利学派经济学，兼顾神学）
-
-• Human Action Podcast（Mises Institute 书评向）
-
-• The Peter Schiff Show Podcast（宏观经济 & 金融市场）
-
-• Freecast （Free State Project 官方，报道新罕布什尔自由移民）
-
-中文播客（更新频率不稳定）：
-
-• 《经济学咖啡》：经济学视角介绍自由市场与公共政策
-
-• 《不偏不依》：泛自由主义访谈
-
-• 《资本主义理想国》：重度理论向
-
-# 播客
-
-Peter McCormack的What Bitcoin Did
-
-**The Tom Woods Show**
-[tomwoods.com/podcast](http://tomwoods.com/podcast)
-
-Lions of Liberty
-
-[lionsofliberty.com](http://lionsofliberty.com/)
-
-Free Man Beyond the Wall
-
-[freemanbeyondthewall.libsyn.com](http://freemanbeyondthewall.libsyn.com/)
-
-Part of the Problem
-
-[gasdigitalnetwork.com/part-of-the-problem](http://gasdigitalnetwork.com/part-of-the-problem)
-
-**The Human Action Podcast** (Mises Institute)
-
-[mises.org/podcasts](http://mises.org/podcasts)
-
-The Bob Murphy Show
-
-[bobmurphyshow.com](http://bobmurphyshow.com/)
-
-**The Peter Schiff Show**
-[schiffradio.com](http://schiffradio.com/)
-
-七、英文圈高质量自由意志主义 Podcast（精选）
-
-| Podcast | 主理人 | 特色 |
-| --- | --- | --- |
-| The Tom Woods Show | Tom Woods | 日更，奥派与政治哲学 |
-| Free Thoughts | Cato Institute | 周更，政策、司法、历史 |
-| EconTalk | Russ Roberts | 周更，经济学与哲学交叉 |
-| The Reason Interview | Reason Magazine | 周更，Libertarian 视角热点 |
-| Part of the Problem | Dave Smith | 喜剧演员+政治评论，无政府资本主义 |
-| Your Welcome | Michael Malice | 访谈无政府主义者、加密 OG |
-| The Bob Murphy Show | Robert Murphy | 奥派硬核，常与 Rothbard 文本对照 |
-| The Ayn Rand Institute Podcast | ARI | 客观主义视角 |
-| Lions of Liberty | Marc Clair | 圆桌讨论，轻松向 |
-| The Voluntary Life | Jake Desyllas | 极简主义+自由创业 |
-
-
-四、英文圈主流自由意志主义 KOL（Twitter/X & YouTube 粉丝量/影响力简注）
-
-1. Ron Paul（@RonPaul，前国会议员，币圈 OG）
-2. Rand Paul（@RandPaul，参议员，老 Paul 之子）
-3. Dave Rubin（@RubinReport，Rubin Report 主播，古典自由派）
-4. Tom Woods（@ThomasEWoods，The Tom Woods Show）
-5. Stefan Molyneux（@StefanMolyneux，Freedomain；争议较大）
-6. Jeffrey Tucker（@jeffreyatucker，Brownstone Institute 创办人）
-7. Bryan Caplan（@bryan_caplan，George Mason University）
-8. Robert P. Murphy（@BobMurphyEcon，奥地利学派经济学家，Mises Institute）
-9. Larken Rose（@LarkenRose，《The Most Dangerous Superstition》作者）
-10. Ayn Rand Institute 官方号（@AynRandInst，客观主义）
-
-五、英文圈自由意志主义 Flagship Event（按规模/影响力排序，仅列年度或定期）
-
-• Libertarian National Convention（美国自由意志党全国代表大会，奇数年 5 月）
-
-• FreedomFest（拉斯维加斯，每年 7 月，号称「全球最大自由思想节」）
-
-• Students for Liberty International Conference（华盛顿/各地，每年 2 月）
-
-• Mises University（奥本大学，每年 7 月底，奥地利学派夏令营）
-
-• PorcFest / Liberty Forum（新罕布什尔 Free State Project，每年 6 月）
-
-• Anarchapulco（墨西哥阿卡普尔科，无政府资本主义「度假式」大会，每年 2 月）
-
-• Cato Institute Monetary Conference（华盛顿，每年 11 月）
-
-六、英文圈核心自由意志主义 Magazine / Journal（纸本+在线）
-
-• Reason Magazine（1968–今，纸本+网站，旗舰）
-
-• The Freeman / Ideas on Liberty（1950–2016，Foundation for Economic Education，已停纸版，网站仍更新）
-
-• The Cato Journal（1981–今，季刊）
-
-• The Independent Review（1996–今，Independent Institute）
-
-• Journal of Libertarian Studies（1977–今，Mises Institute，半年刊）
-
-• Liberty Magazine（1987–2010，纸质停刊，官网存档）
-
-## 1. 自由意志主义 KOL 排行
-
-| 全球排名 | 主要平台 | 粉丝量级 | 典型标签 |
-| --- | --- | --- | --- |
-| 1. Ron Paul（朗·保罗，美国） | X、YouTube、RonPaulLibertyReport | 250 万+ | “极小政府”“结束美联储” |
-| 2. Dave Smith（喜剧演员/主持） | Part of the Problem、X | 120 万+ | AnCap、Mises Caucus |
-| 3. Katherine Mangu-Ward（Reason 主编） | Reason、Substack | 100 万+ | 科技乐观主义 |
-| 4. Peter Schiff（经济评论员） | X、Gold Money、YouTube | 90 万+ | 反央行、硬通货 |
-| 5. Tom Woods（历史学者） | Tom Woods Show、X | 80 万+ | 美宪原教旨、主流经济批判 |
-| 6. Richard Epstein（芝大法学） | Hoover、The Libertarian Podcast | 学术引用 25k+ | 法律经济学 |
-| 7. Angela McArdle（美自党主席） | X、Fox | 50 万+ | Grass-root 组织 |
-| 8. Gene Epstein & SoHo Forum | X、YouTube | 40 万+ | 现场辩论 |
-| 9. Maj Toure（Black Guns Matter） | X | 35 万+ | 二修、城市社区 |
-| 10. Michael Munger（杜克大学） | Substack、Podcast | 学术引用 18k+ | 公共选择<br>市场设计 |
-
-| 中文圈 | 平台 | 关注量级 | 备注 |
-| --- | --- | --- | --- |
-| 1. 李华-张（知乎「李华经济学」） | 知乎、B 站 | 45 万+ | 翻译奥派 |
-| 2. 林承铎（台湾） | Facebook、Podcast | 20 万+ | 台版「自由之声」 |
-| 3. 「不自由毋宁死」频道 | B 站 | 10 万+ | 三分钟讲经济 |
-| 4. 徐子轩（旅美学者） | X、Substack | 8 万+ | 政治哲学 |
-
-> 说明：中文自由意志主义者多受限于平台规则，一些人采用匿名或小众论坛，不便列名。
-> 
-
-## 2. 典型 Libertarian 线下/线上活动
-
-1. FreedomFest（拉斯维加斯，7 月）
-全球最大自由意志主义大会，政客 + 学者 + 企业家，3–4 千人。
-2. LibertyCon（Students For Liberty，春季轮办欧美）
-面向大学生与青年，门票低廉，含职业市集。
-3. PorcFest（新罕布什尔，自由州项目 6 月）
-帐篷露营 + 枪支训练 + 用 BTC/银币交易，极客氛围。
-4. Austrian Economics Research Conference（Mises Institute，3 月）
-奥地利学派经济学年会，含学术论文与公共讲座。
-5. Atlas Network Liberty Forum & Freedom Dinner（纽约，11 月）
-全球智库网络颁奖礼，非营利圈社交重镇。
-6. SoHo Forum 辩论（纽约，月度 & 直播）
-“牛津式”辩题，现场观众投票。
-7. Prague College of Political Economy Summer School（7 月）
-与 CEVRO Institute 合办，重点东欧转型经验。
-8. Liberty Forum of Silicon Valley（加州，双月）
-科技 + 私有城市 + 加密金融。
-9. Free Market Road Show（4–6 月，欧洲巡回）
-20 多城，一线经济学家与地方政界联合办。
-10. 亚洲：
-• 亞洲自由經濟高峰會（台北，偶数年）
-• HSC 哈耶克社会年会（香港/线上）
-
-## 3. 自由意志主义杂志 / 期刊
-
-1. Reason Magazine（1972–）月刊，面向大众；科技、文化写作占比高。
-2. Cato Policy Report & Regulation（双月刊 / 季刊）智库导向，公共政策深度。
-3. The Freeman（FEE，电子季刊）历史最久，致力于中学大学读者。
-4. Journal of Libertarian Studies（Mises Institute，学术同行评审）。
-5. The Objective Standard（兰德客观主义，但与自由意志主义高度重叠）。
-6. Liberty Magazine（1987–2016，存档可全网阅读）。
-7. Bitcoin Magazine（并非纯政治刊物，但编辑部明确宣称“Cypher-Libertarian”）。
-
-中文相关：
-
-• 《經濟學與自由》（台湾财团法人民间全民电力基金会不定期）
-
-• “经济与自由译丛”Substack（电子）
-
-## 4. 自由意志主义播客（英语为主）
+## 3. libertarian Publisher
+
+| Name                             | Description                                                                                          | Website/Contact                                   | Publisher/Organization          |
+|---------------------------------- |------------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------------|
+| **Reason Magazine**               | Leading libertarian magazine covering politics, culture, and ideas of liberty.                       | [reason.com](https://reason.com)                  | Reason Foundation               |
+| **The Freeman (FEE)**             | Classic magazine (now an online publication) focused on economics and liberty.                       | [fee.org/resources/the-freeman](https://fee.org/resources/the-freeman) | Foundation for Economic Education (FEE) |
+| **Liberty Magazine**              | Formerly a popular print and online magazine with libertarian commentary and analysis (ceased 2016). | [libertyunbound.com](https://libertyunbound.com)  | Liberty Magazine, Inc.          |
+| **The Objective Standard**        | Quarterly journal promoting Objectivism and classical liberal ideas.                                 | [theobjectivestandard.com](https://www.theobjectivestandard.com) | The Objective Standard          |
+| **Cato Journal**                  | Academic journal publishing papers on public policy, economics, and philosophy from a libertarian perspective. | [cato.org/cato-journal](https://www.cato.org/cato-journal) | Cato Institute                  |
+| **Journal of Libertarian Studies**| Academic journal focusing on libertarian theory and Austrian economics.                              | [mises.org/library/journal-libertarian-studies](https://mises.org/library/journal-libertarian-studies) | Mises Institute                 |
+| **The Independent Review**        | Interdisciplinary journal of political economy and the classical liberal tradition.                   | [independent.org/publications/tir](https://www.independent.org/publications/tir/) | Independent Institute           |
+| **Regulation**                    | Quarterly magazine offering analysis of government regulation from a libertarian/free-market view.    | [cato.org/regulation](https://www.cato.org/regulation) | Cato Institute                  |
+| **Journal of Private Enterprise** | Peer-reviewed academic journal focusing on private enterprise, markets, and entrepreneurship.         | [journal.apee.org](https://journal.apee.org)      | Association of Private Enterprise Education (APEE) |
+| **Critical Review**               | Interdisciplinary academic journal with a strong focus on libertarian and free-market ideas.          | [tandfonline.com/toc/rcri20/current](https://www.tandfonline.com/toc/rcri20/current) | Critical Review Foundation      |
+
+# 4. Libertarian Podcast
+| Name                                | Description                                                                                       | Website/Platform                                 | Host/Organization              |
+|--------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------------------------|
+| **The Reason Roundtable**            | Weekly discussion of current events and libertarian ideas by Reason magazine editors.              | [reason.com/podcasts](https://reason.com/podcasts) | Reason Magazine                |
+| **The Tom Woods Show**               | In-depth interviews and commentary on libertarian theory, history, and current events.             | [tomwoods.com](https://tomwoods.com)             | Tom Woods                     |
+| **The Bob Murphy Show**              | Economics, philosophy, and libertarian thought from an Austrian-school perspective.                | [bobmurphyshow.com](https://bobmurphyshow.com)   | Robert P. Murphy              |
+| **The Cato Daily Podcast**           | Daily analysis of news and policy from a libertarian perspective.                                  | [cato.org/multimedia/daily-podcast](https://www.cato.org/multimedia/daily-podcast) | Cato Institute                |
+| **Free Thoughts**                    | In-depth conversations about libertarian philosophy, politics, and economics.                      | [cato.org/multimedia/free-thoughts](https://www.cato.org/multimedia/free-thoughts) | Cato Institute                |
+| **Lions of Liberty**                 | Interviews and roundtable discussions on politics, philosophy, and the liberty movement.           | [lionsofliberty.com](https://www.lionsofliberty.com) | Lions of Liberty              |
+| **The Libertarian Podcast**          | Commentary on law, liberty, and current events with Richard Epstein.                               | [hoover.org/podcasts/libertarian](https://www.hoover.org/podcasts/libertarian) | Hoover Institution             |
+| **The Jason Stapleton Program**      | Focuses on wealth, power, influence, and individual liberty.                                       | [jasonstapleton.com](https://www.jasonstapleton.com) | Jason Stapleton                |
+| **School Sucks Podcast**             | Critique of compulsory schooling and advocacy for self-directed learning and liberty.              | [schoolsucksproject.com](https://schoolsucksproject.com) | Brett Veinotte                 |
+| **Part of the Problem**              | Libertarian takes on politics and current events, with comedian Dave Smith.                        | [gasdigitalnetwork.com/gdn-show-channels/part-of-the-problem/](https://gasdigitalnetwork.com/gdn-show-channels/part-of-the-problem/) | Dave Smith                    |
