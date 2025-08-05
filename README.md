@@ -1,5 +1,39 @@
 # awesome-libertarian
 Everything about libertarian
+# Major Branches of Libertarianism
+
+| Branch/School                  | Description                                                                 | Notable Figures/Examples           |
+|--------------------------------|-----------------------------------------------------------------------------|------------------------------------|
+| **Classical Liberalism**       | Emphasizes individual liberty, rule of law, limited government, and free markets. | John Locke, Adam Smith, John Stuart Mill |
+| **Minarchism**                 | Supports minimal state limited to protecting individual rights and property. | Robert Nozick, Ayn Rand            |
+| **Anarcho-Capitalism**         | Advocates for a stateless society based on voluntary transactions and private property. | Murray Rothbard, David D. Friedman |
+| **Libertarian Socialism**      | Seeks a non-hierarchical, stateless society with collective/cooperative ownership. | Noam Chomsky, Murray Bookchin      |
+| **Mutualism**                  | Advocates for a society based on mutual aid, free association, and cooperative ownership. | Pierre-Joseph Proudhon             |
+| **Agorism**                    | Focuses on counter-economics and voluntary, non-violent exchanges outside state control. | Samuel Edward Konkin III           |
+| **Geo-Libertarianism**         | Advocates common ownership of natural resources with private property for labor products. | Henry George, Fred Foldvary        |
+| **Voluntaryism**               | Believes all forms of human association should be voluntary, opposes all forms of coercion. | Auberon Herbert, Carl Watner       |
+| **Paleolibertarianism**        | Blends libertarian political philosophy with traditional or conservative social values. | Lew Rockwell, Hans-Hermann Hoppe   |
+| **Left-Libertarianism**        | Combines libertarianism with egalitarianism, anti-capitalism, or social justice. | Kevin Carson, Roderick T. Long     |
+| **Right-Libertarianism**       | Focuses on strong property rights, individualism, and free-market capitalism. | Milton Friedman, Ludwig von Mises  |
+| **Bleeding-Heart Libertarianism** | Integrates libertarianism with social justice or welfarist concerns.         | Jason Brennan, Matt Zwolinski      |
+| **Market Anarchism**           | Promotes a stateless society where free markets provide all services, including law. | Benjamin Tucker, Kevin Carson      |
+| **Technolibertarianism**       | Emphasizes technology and digital rights as tools for individual freedom.   | John Perry Barlow, EFF             |
+| **Cypherpunk**                 | Promotes privacy-enhancing tech, cryptography, and digital currencies for liberty. | Timothy C. May, Eric Hughes        |
+| **Crypto-Anarchism**           | Focuses on using cryptography to build anonymous, stateless societies.      | Timothy C. May, Cody Wilson        |
+| **Transhumanist Libertarianism**| Combines libertarianism with human enhancement and transhumanist philosophy. | Zoltan Istvan, Max More            |
+| **Radical Market Libertarianism** | Proposes novel market solutions (e.g., Harberger taxes, data as labor) to maximize liberty and efficiency. | Glen Weyl, Eric Posner             |
+| **Eco-Libertarianism**         | Advocates combining libertarian principles with environmental stewardship.   | Mary Ruwart, Spencer MacCallum     |
+| **Green Libertarianism**       | Similar to Eco-Libertarianism, but with greater focus on ecological concerns. | Brian Doherty, Karl Hess           |
+| **Objectivist Libertarianism** | Draws from Ayn Rand’s Objectivism: individual rights, rational self-interest, capitalism. | Ayn Rand, Leonard Peikoff          |
+| **Progressive Libertarianism** | Blends libertarian values with progressive social policies.                 | Gary Johnson, Jesse Ventura        |
+| **Libertarian Feminism**       | Merges feminist theory with libertarianism, focusing on voluntary cooperation and individual rights. | Wendy McElroy, Joan Kennedy Taylor |
+| **Individualist Anarchism**    | Advocates for individual sovereignty, personal autonomy, and anti-authoritarianism. | Max Stirner, Benjamin Tucker       |
+| **Panarchism**                 | Supports the right of individuals to freely choose their governance without territorial restriction. | Paul Émile de Puydt, John Zube     |
+| **Fusionism**                  | Seeks to synthesize libertarianism with other ideologies, especially conservatism. | Frank Meyer, Ronald Reagan         |
+| **Civil Libertarianism**       | Prioritizes civil liberties and legal protections against state overreach.   | Harvey Silverglate, Nadine Strossen|
+| **Neolibertarianism**          | Adapts libertarianism to modern times, sometimes supporting limited intervention for pragmatic reasons. | Brink Lindsey, Jason Kuznicki      |
+| **Utilitarian Libertarianism** | Justifies liberty and free markets on utilitarian or consequentialist grounds. | David D. Friedman, Ludwig von Mises|
+| **Libertarian Municipalism**   | Advocates decentralized, self-governing municipalities based on libertarian socialist principles. | Murray Bookchin                    |
 # 1. Libertarian organization/institution
 | Name                                      | Description                                                                                                                               | Contact/Website                                   | Headquarters              |
 |------------------------------------------- |-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|---------------------------|
