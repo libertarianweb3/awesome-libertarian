@@ -314,4 +314,20 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 | Understanding Federalism                      | Cato Institute               | Free course on federalism, decentralization, and limited government.                     | https://www.cato.org/education-events/understanding-federalism|
 | Introduction to Austrian Economics            | Mises Institute              | A beginner’s overview of Austrian economics and its role in libertarian thought.         | https://mises.org/events/introduction-austrian-economics     |
 | Libertarianism and the Law                    | Cato Institute               | Explores the connections between law, rights, and libertarianism.                        | https://www.cato.org/education-events/libertarianism-law     |
-| Individual Liberty, Free Markets, and Entrepreneurship | Atlas Network         | Course series on the values and practicalities of liberty and markets.                   | https://www.atlasnetwork.org/academy                         |
+| Individual Liberty, Free Markets, and Entrepreneurship | Atlas Network         | Course series on the values and practicalities of liberty and markets.                   | https://www.atlasnetwork.org/academy  
+
+# 11. AI & Libertarianism
+
+Category	Description / Focus	Notable Examples / Resources
+Core Concerns	Individual autonomy, privacy rights, decentralization, free markets, non-aggression principle	-
+AI Ethics	Concerns about algorithmic bias, censorship, and government use of AI for surveillance	Cato Institute AI Policy, EFF AI Ethics
+Decentralized AI	Open-source, distributed, and permissionless AI models as alternatives to state/corporate monopoly	SingularityNET, Fetch.ai, OpenMined
+Privacy & Encryption	Using AI and cryptography to enhance privacy and resist surveillance capitalism or state overreach	Signal, EFF, Cypherpunks, PrivacyTools.io
+Regulation	Libertarian skepticism of state intervention in AI innovation and markets	Reason Foundation on AI, Mercatus Center AI Policy
+Free Speech	AI and content moderation: supporting free expression, opposing automated or state censorship	FIRE, Cato Institute Free Speech
+Property Rights	Open-source vs. proprietary AI, data ownership, and digital property rights	Creative Commons, Blockchain IP, Ocean Protocol
+Digital Identity	Self-sovereign identity, resisting state-mandated digital ID and centralized control	Sovrin, World Identity Network
+Thinkers & Advocates	Libertarians writing on AI, tech, and digital freedom	Timothy C. May, John Perry Barlow, Cory Doctorow, Glen Weyl, Julian Assange
+Organizations	Libertarian or liberty-oriented tech/AI organizations	EFF, Cato Institute Tech & Innovation, FEE
+Books & Papers	Key works at the intersection of AI and liberty	- “The Transparent Society” (David Brin) <br> - “Radical Markets” (Glen Weyl & Eric Posner) <br> - “Cypherpunks” (Julian Assange et al.)
+Podcasts/Videos	AI, liberty, and digital rights in audio/video format	ReasonTV, Cato Daily Podcast, Lex Fridman Podcast|
