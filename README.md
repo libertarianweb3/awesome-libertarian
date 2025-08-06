@@ -318,16 +318,22 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 
 # 11. AI & Libertarianism
 
-Category	Description / Focus	Notable Examples / Resources
-Core Concerns	Individual autonomy, privacy rights, decentralization, free markets, non-aggression principle	-
-AI Ethics	Concerns about algorithmic bias, censorship, and government use of AI for surveillance	Cato Institute AI Policy, EFF AI Ethics
-Decentralized AI	Open-source, distributed, and permissionless AI models as alternatives to state/corporate monopoly	SingularityNET, Fetch.ai, OpenMined
-Privacy & Encryption	Using AI and cryptography to enhance privacy and resist surveillance capitalism or state overreach	Signal, EFF, Cypherpunks, PrivacyTools.io
-Regulation	Libertarian skepticism of state intervention in AI innovation and markets	Reason Foundation on AI, Mercatus Center AI Policy
-Free Speech	AI and content moderation: supporting free expression, opposing automated or state censorship	FIRE, Cato Institute Free Speech
-Property Rights	Open-source vs. proprietary AI, data ownership, and digital property rights	Creative Commons, Blockchain IP, Ocean Protocol
-Digital Identity	Self-sovereign identity, resisting state-mandated digital ID and centralized control	Sovrin, World Identity Network
-Thinkers & Advocates	Libertarians writing on AI, tech, and digital freedom	Timothy C. May, John Perry Barlow, Cory Doctorow, Glen Weyl, Julian Assange
-Organizations	Libertarian or liberty-oriented tech/AI organizations	EFF, Cato Institute Tech & Innovation, FEE
-Books & Papers	Key works at the intersection of AI and liberty	- “The Transparent Society” (David Brin) <br> - “Radical Markets” (Glen Weyl & Eric Posner) <br> - “Cypherpunks” (Julian Assange et al.)
-Podcasts/Videos	AI, liberty, and digital rights in audio/video format	ReasonTV, Cato Daily Podcast, Lex Fridman Podcast|
+## AI & Libertarianism
+
+| Category                | Description / Focus                                                                                          | Notable Examples / Resources                                                                                                                                       |
+|-------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Core Concerns**       | Individual autonomy, privacy rights, decentralization, free markets, non-aggression principle               | -                                                                                                                                                                 |
+| **AI Ethics**           | Algorithmic bias, censorship, and government use of AI for surveillance                                     | [Cato Institute AI Policy](https://www.cato.org/project-on-technology-innovation), [EFF AI Ethics](https://www.eff.org/issues/ai)                                 |
+| **Decentralized AI**    | Open-source, distributed, and permissionless AI models vs. state/corporate monopoly                         | [SingularityNET](https://singularitynet.io/), [Fetch.ai](https://fetch.ai/), [OpenMined](https://www.openmined.org/)                                              |
+| **Privacy & Encryption**| Using AI and cryptography to enhance privacy, resisting surveillance capitalism or state overreach           | [Signal](https://signal.org/), [EFF](https://www.eff.org/), [Cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk), [PrivacyTools.io](https://www.privacytools.io/) |
+| **Regulation**          | Libertarian skepticism of state intervention in AI innovation and markets                                    | [Reason Foundation on AI](https://reason.org/topics/technology/), [Mercatus Center AI Policy](https://www.mercatus.org/tags/artificial-intelligence)              |
+| **Free Speech**         | AI and content moderation: supporting free expression, opposing automated/state censorship                   | [FIRE](https://www.thefire.org/), [Cato Institute Free Speech](https://www.cato.org/tags/free-speech)                                                             |
+| **Property Rights**     | Open-source vs. proprietary AI, data ownership, digital property rights                                     | [Creative Commons](https://creativecommons.org/), [Ocean Protocol](https://oceanprotocol.com/), [Ethereum NFTs](https://ethereum.org/en/nft/)                     |
+| **Digital Identity**    | Self-sovereign identity, resisting state-mandated digital ID and centralized control                        | [Sovrin](https://sovrin.org/), [World Identity Network](https://win.systems/)                                                                                     |
+| **Thinkers & Advocates**| Libertarians writing on AI, tech, and digital freedom                                                       | Timothy C. May, John Perry Barlow, Cory Doctorow, Glen Weyl, Julian Assange                                                                                       |
+| **Organizations**       | Libertarian or liberty-oriented tech/AI organizations                                                       | [EFF](https://www.eff.org/), [Cato Institute Tech & Innovation](https://www.cato.org/project-on-technology-innovation), [FEE](https://fee.org/)                   |
+| **Books & Papers**      | Key works at the intersection of AI and liberty                                                             | _The Transparent Society_ (David Brin), _Radical Markets_ (Glen Weyl & Eric Posner), _Cypherpunks_ (Julian Assange et al.)                                        |
+| **Podcasts/Videos**     | AI, liberty, and digital rights in audio/video format                                                       | [ReasonTV](https://www.youtube.com/user/ReasonTV), [Cato Daily Podcast](https://www.cato.org/multimedia/daily-podcast), [Lex Fridman Podcast](https://lexfridman.com/podcast/) |
+
+---
+
