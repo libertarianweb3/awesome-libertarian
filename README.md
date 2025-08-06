@@ -336,4 +336,36 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 | **Podcasts/Videos**     | AI, liberty, and digital rights in audio/video format                                                       | [ReasonTV](https://www.youtube.com/user/ReasonTV), [Cato Daily Podcast](https://www.cato.org/multimedia/daily-podcast), [Lex Fridman Podcast](https://lexfridman.com/podcast/) |
 
 ---
+# 12. Web3 & Libertarianism
 
+| Category                   | Description / Focus                                                                                               | Notable Examples / Resources                                                                                                    |
+|----------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| **Core Values**            | Decentralization, self-sovereignty, censorship resistance, voluntary association, privacy, free markets          | -                                                                                                                               |
+| **Blockchain**             | Distributed ledgers enabling trustless transactions and property rights without the state                         | [Ethereum](https://ethereum.org/), [Bitcoin](https://bitcoin.org/), [Tezos](https://tezos.com/)                                 |
+| **Cryptocurrencies**       | Digital money challenging central banks and promoting financial freedom                                           | [Bitcoin](https://bitcoin.org/), [Monero](https://getmonero.org/), [Zcash](https://z.cash/), [DAI](https://makerdao.com/)       |
+| **Smart Contracts**        | Self-executing agreements without third-party enforcement                                                         | [Ethereum Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/), [Chainlink](https://chain.link/)           |
+| **DAOs**                   | Decentralized Autonomous Organizations for voluntary, non-hierarchical governance                                 | [Aragon](https://aragon.org/), [DAOstack](https://daostack.io/), [MolochDAO](https://molochdao.com/)                            |
+| **DeFi**                   | Decentralized finance: lending, borrowing, trading without banks or state regulation                              | [Uniswap](https://uniswap.org/), [Aave](https://aave.com/), [MakerDAO](https://makerdao.com/)                                   |
+| **NFTs & Digital Property**| Individual ownership and transfer of digital assets, copyright without centralized control                        | [OpenSea](https://opensea.io/), [Rarible](https://rarible.com/), [SuperRare](https://superrare.com/)                            |
+| **Privacy Tools**          | Technologies to resist surveillance and protect user data                                                         | [Tornado Cash](https://tornado.cash/), [Signal](https://signal.org/), [Wasabi Wallet](https://wasabiwallet.io/)                  |
+| **Identity & SSI**         | Self-sovereign identity: users control digital identity and credentials                                           | [Sovrin](https://sovrin.org/), [uPort](https://www.uport.me/), [Ceramic](https://ceramic.network/)                              |
+| **P2P Networks**           | Peer-to-peer communication, data storage and social media outside of state/corporate control                      | [IPFS](https://ipfs.tech/), [Filecoin](https://filecoin.io/), [Mastodon](https://joinmastodon.org/), [Status](https://status.im/)|
+| **Free Speech & Censorship Resistance** | Unstoppable publishing, uncensorable social networks, free media                                    | [Mirror.xyz](https://mirror.xyz/), [Minds](https://www.minds.com/), [Nostr](https://nostr.com/)                                 |
+| **Organizations**          | Groups advancing Web3 and libertarian tech ideals                                                                 | [EFF](https://www.eff.org/), [Coin Center](https://coincenter.org/), [Blockchain Commons](https://www.blockchaincommons.com/)    |
+| **Key Thinkers/Advocates** | Writers, founders, and technologists promoting Web3 and liberty                                                   | Vitalik Buterin, Balaji Srinivasan, Nick Szabo, Andreas Antonopoulos, Cody Wilson, Amir Taaki                                   |
+| **Books & Papers**         | Key readings at the intersection of Web3 and libertarianism                                                      | - "The Sovereign Individual" (Davidson & Rees-Mogg)<br>- "Bitcoin Whitepaper" (Satoshi Nakamoto)<br>- "Crypto Anarchy, Cyberstates, and Pirate Utopias" (ed. Peter Ludlow) |
+| **Podcasts/Videos**        | Discussions on Web3, crypto, and digital freedom                                                                 | [Unchained](https://www.unchainedpodcast.com/), [What Bitcoin Did](https://www.whatbitcoindid.com/), [Bankless](https://banklesshq.com/) |
+
+---
+
+### Example Use Cases
+
+- **Financial Sovereignty:** Holding and transferring assets without state approval
+- **Uncensorable Communication:** Publishing and messaging immune to government takedowns
+- **Voluntary Organizations:** Joining or creating DAOs for any purpose, without borders
+- **Private Transactions:** Using privacy coins and mixers to keep financial activity confidential
+- **Self-Owned Identity:** Managing credentials and reputation without centralized authorities
+
+---
+
+*Feel free to expand this table with more projects, thinkers, or resources as the Web3 and libertarian fields evolve!*
