@@ -369,3 +369,33 @@ https://www.newsmax.com/BestLists/libertarians-newsmax-freedomfest/2017/06/01/id
 ---
 
 *Feel free to expand this table with more projects, thinkers, or resources as the Web3 and libertarian fields evolve!*
+
+---
+
+# 🚀 Project Submissions, Fast-Track Review & Sponsorship
+
+Are you building an open-source tool, decentralized protocol, privacy application, or sovereign infrastructure aligned with Cypherpunk & Libertarian values?
+
+### 🌟 How to Get Listed
+
+1. **Standard Community Submission (Free)**:
+   - Fork this repository.
+   - Add your project to the appropriate category table in alphabetical order.
+   - Submit a Pull Request with a clear description and active website/repository links. (Community PRs are reviewed periodically).
+
+2. **⚡ Fast-Track Review & Featured Placement ($50 USDC / USDT)**:
+   - Guaranteed review and merge within **24 hours**.
+   - **Featured Badge (🌟 Featured)** in the category table and top-of-readme mention for 30 days.
+   - Backlink and permanent inclusion in the curated index.
+   - **Payment Methods**:
+     - **EVM Multi-Chain (Base / Arbitrum / Polygon / Ethereum)**: `0x240C74A953Fc04Fe8cD713c68b53e94d9b449F8C`
+     - **ENS Domain**: `gewenbo.eth`
+     - **Unified Payment Portal**: [https://psyverse.fun/payment](https://psyverse.fun/payment)
+     - **PayPal**: [https://paypal.me/gewenbo888](https://paypal.me/gewenbo888)
+   - *After payment, open an issue or PR with your transaction hash, or email `libertarianweb3@gmail.com`.*
+
+---
+
+## 📜 License & Maintenance
+
+Maintained by [@libertarianweb3](https://github.com/libertarianweb3). Licensed under [MIT License](LICENSE).
