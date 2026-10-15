@@ -1,5 +1,19 @@
-# awesome-libertarian
-Everything about libertarian
+# awesome-libertarian 🏛️⚡
+
+> The definitive curated index of Libertarian Philosophies, Cypherpunk Protocols, Privacy Networks, and Peer-to-Peer Sovereign Systems.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Fast--Track%20Review-orange?style=flat-square&logo=github-sponsors)](https://github.com/libertarianweb3/awesome-libertarian/issues/new?template=sponsorship_or_fast_track.yml)
+[![Sovereign Payment](https://img.shields.io/badge/EVM%20Payment-0x240C...4F8C-blue?style=flat-square&logo=ethereum)](https://psyverse.fun/payment)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
+
+---
+
+> 🚀 **Project Maintainers & Web3 Builders**: Want guaranteed 24h review, featured placement, or verified backlink?  
+> See [⚡ Project Submissions, Fast-Track Review & Sponsorship ($50 USDC/USDT)](#-project-submissions-fast-track-review--sponsorship) or [Open Fast-Track Issue](https://github.com/libertarianweb3/awesome-libertarian/issues/new?template=sponsorship_or_fast_track.yml).
+
+---
+
 # Major Branches of Libertarianism
 
 | Branch/School                  | Description                                                                 | Notable Figures/Examples           |

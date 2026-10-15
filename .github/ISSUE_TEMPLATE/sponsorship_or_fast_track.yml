@@ -1,0 +1,67 @@
+name: ⚡ Fast-Track Review or Sponsorship Application
+description: Submit your project for guaranteed 24h review & featured inclusion in Awesome-Libertarian
+title: "[Submission/Sponsor]: <Your Project Name>"
+labels: ["fast-track", "sponsor"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🚀 Fast-Track Review & Featured Listing ($50 USDC/USDT)
+        Get your project verified, reviewed, and merged into the curated Awesome-Libertarian repository within 24 hours.
+        - **EVM Multi-Chain**: `0x240C74A953Fc04Fe8cD713c68b53e94d9b449F8C` (Base / Arbitrum / Polygon / Ethereum)
+        - **ENS**: `gewenbo.eth`
+        - **Unified Portal**: [https://psyverse.fun/payment](https://psyverse.fun/payment)
+        - **PayPal**: [https://paypal.me/gewenbo888](https://paypal.me/gewenbo888)
+
+  - type: input
+    id: project_name
+    attributes:
+      label: Project Name
+      placeholder: "e.g. MyPrivacyProtocol"
+    validations:
+      required: true
+
+  - type: input
+    id: project_url
+    attributes:
+      label: Project Website or GitHub URL
+      placeholder: "https://github.com/..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: target_category
+    attributes:
+      label: Target Category in Awesome-Libertarian
+      options:
+        - "12. Web3 & Libertarianism"
+        - "11. Artificial Intelligence & Liberty"
+        - "10. Technology & Cypherpunk"
+        - "4. Free Market Economics"
+        - "Other / Featured Placement"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: One-line Description
+      placeholder: "Brief, high-signal summary of what your project does and how it aligns with libertarian/cypherpunk values."
+    validations:
+      required: true
+
+  - type: input
+    id: payment_ref
+    attributes:
+      label: Transaction Hash / Payment Receipt / Order ID
+      placeholder: "0x... or PayPal Transaction ID"
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Email or Telegram/Twitter Handle
+      placeholder: "your@email.com or @handle"
+    validations:
+      required: true
